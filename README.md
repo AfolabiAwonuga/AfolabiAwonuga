@@ -1,12 +1,6 @@
 <h3 align="left">Hi, I'm Afolabi</h3>
 
-- 💬 I'm a Machine Learning Engineer
-  
-- 🌱 I’m passionate about building ML/AI systems
-
-- 📝 I have a masters degree in Data Science
-
-- 💞️ I love to collaborate and work on interesting problems
+- 💬 Building Sotfware Sytems
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
