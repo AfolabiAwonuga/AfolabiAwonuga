@@ -1,6 +1,6 @@
 <h3 align="left">Hi, I'm Afolabi</h3>
 
-- 💬 Building Sotfware Sytems
+- 💬 Building Sotfware
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
