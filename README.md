@@ -1,6 +1,6 @@
 <h3 align="left">Hi, I'm Afolabi</h3>
 
-- 💬 Building Software
+- 💬 Building AI/ML Sustems
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
